@@ -1,0 +1,14 @@
+{
+  "name": "jobapplicant",
+  "version": "1.0.0",
+  "description": "contains the status about the applicant interview process",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pushkar",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^7.4.1"
+  }
+}
